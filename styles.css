@@ -1,0 +1,24 @@
+*{
+    font-style: Arial, Verdana, Sans-serif;
+}
+
+html{
+    background-color:#FFEAD3;
+    color:#EA7B7B;
+}
+
+#web-title{
+    font-size:70px;
+    color:#9E3B3B;
+}
+
+h1{
+    font-size:60px;
+    color:#D25353;
+}
+
+ul, ol{
+    margin-left:40px;    
+}
+
+
